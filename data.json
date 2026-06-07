@@ -1,1 +1,5 @@
-{"name":"Rahul Gupta","role":"SRE","city":"Jamshedpur"}
+{
+  "name": "Rahul Gupta",
+  "role": "Site Reliability Engineer",
+  "experience": "4 years"
+}
